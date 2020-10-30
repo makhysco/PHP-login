@@ -24,7 +24,6 @@
 				}
 			}
 			?>
-				
 				<form action="login_action.php  " method="post">
 					<div class="form-grup">
 						<label for="username">Username</label>
